@@ -1,6 +1,11 @@
 # Prey Detection
 
 A computer vision system for detecting cats with prey in video footage.
+The end goal of this project is more or less to be able to fine-tune a model (e.g., YOLOv8) to detect prey (mice, birds, etc) in videos of cats.
+Eventually would like to connect this to Raspberry Pi and have it run in real-time on a camera feed to control
+a cat door or something similar.
+
+This project is a work in progress and is not yet fully functional.
 
 ## Overview
 
